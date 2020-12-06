@@ -1,3 +1,4 @@
 ##Expense Tracker
+
 track and manage all your expenses on the go.
-link: 
+[Expense Tracker](https://expense-tr.netlify.app/)
